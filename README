@@ -1,0 +1,1 @@
+get_ipmi.pl -H 10.1.1.1 -U user -P password  | create_template.pl > template_name.xml
